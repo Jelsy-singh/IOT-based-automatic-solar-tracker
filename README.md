@@ -8,3 +8,8 @@ With every passing year solar energy is becoming more prevalent across the world
  HERE IS THE LINK ON TINKERCAD FOR OUR PROJECT
 https://www.tinkercad.com/things/7GTtXGfrCVy-start-simulating/editel?lessonid=EHD2303J3YPUS5Z&projectid=OIYJ88OJ3OPN3EA&collectionid=OIYJ88OJ3OPN3EA&sharecode=mYZrWeBYkZgUgJEW39LDWpZUD8rhKZPSF1vLAaDETNQ
  
+The 3D model images are in the code, that show the positions of LDR sensors.
+The applications of this project includes :
+1. Space telescopes/Satellites
+2. Rovers
+3. RoofTop solar panels etc
