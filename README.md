@@ -4,3 +4,7 @@ With every passing year solar energy is becoming more prevalent across the world
 2. 2Servos
 3. 3 Light Dependent Resistors (LDRs)
 4. 3 10k Ohm Resistors. 
+
+ HERE IS THE LINK ON TINKERCAD FOR OUR PROJECT
+https://www.tinkercad.com/things/7GTtXGfrCVy-start-simulating/editel?lessonid=EHD2303J3YPUS5Z&projectid=OIYJ88OJ3OPN3EA&collectionid=OIYJ88OJ3OPN3EA&sharecode=mYZrWeBYkZgUgJEW39LDWpZUD8rhKZPSF1vLAaDETNQ
+ 
